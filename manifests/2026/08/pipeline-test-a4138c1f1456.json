@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "approval_id": "zk-pipeline-test-20260818",
+  "status": "approved",
+  "approved_by": "AG-05-controlled-test",
+  "approved_at": "2026-08-18T00:00:00-06:00",
+  "source_sha256": "a4138c1f1456ef69c0be63f459384644b1f8249fb7154e1ff9cbd9318c218d64",
+  "media_path": "assets/2026/08/pipeline-test-a4138c1f1456.png",
+  "purpose": "Technical pipeline test only; not commercial content."
+}
