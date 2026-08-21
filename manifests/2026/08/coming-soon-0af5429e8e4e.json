@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "approval_id": "zk-coming-soon-20260821-001",
+  "status": "approved",
+  "approved_by": "owner-explicit-authorization",
+  "approved_at": "2026-08-21T00:24:24-06:00",
+  "test_only": false,
+  "purpose": "first-coming-soon-publication",
+  "channels": [
+    "facebook_page",
+    "instagram"
+  ],
+  "caption": "coming soon",
+  "media_path": "assets/2026/08/coming-soon-0af5429e8e4e.jpg",
+  "source_sha256": "0af5429e8e4e1c67ed3094e7d0b26302371be7e8a02033163a698ac1aa1cc50e"
+}
